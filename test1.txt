@@ -1,1 +1,3 @@
 github'a push etmek için bu örnek oluşturuldu.
+
+ikinci kez giriş yapıp commit attık diyelim.
