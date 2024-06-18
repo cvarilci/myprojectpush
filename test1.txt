@@ -1,3 +1,5 @@
 github'a push etmek için bu örnek oluşturuldu.
 
 ikinci kez giriş yapıp commit attık diyelim.
+
+bu kez farklı bir kişi bu bilgiyi kendi bilgisayarında açıp giriş yaptı.
